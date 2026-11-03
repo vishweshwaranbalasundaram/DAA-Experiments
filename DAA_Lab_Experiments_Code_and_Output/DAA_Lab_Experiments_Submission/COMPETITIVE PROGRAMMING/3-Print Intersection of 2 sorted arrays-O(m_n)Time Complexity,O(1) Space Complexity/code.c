@@ -1,0 +1,36 @@
+#include <stdio.h>
+int main() {
+   int t;
+   if (scanf("%d", &t) != 1) return 0;
+   while (t--) {
+       int n1, n2;
+       scanf("%d", &n1);
+       int a[n1];
+       for (int i = 0; i < n1; i++) {
+           scanf("%d", &a[i]);
+       }
+scanf("%d", &n2);
+
+       scanf("%d", &n2);
+       int b[n2];
+       for (int i = 0; i < n2; i++) {
+           scanf("%d", &b[i]);
+       }
+       int first = 1;
+       for (int i = 0; i < n1; i++) {
+           for (int j = 0; j < n2; j++) {
+               if (a[i] == b[j]) {
+                   if (!first) printf(" ");
+                   printf("%d", a[i]);
+                   first = 0;
+                   break;
+               }
+           }
+       }
+       printf("\n");
+   }
+   return 0;
+}
+
+/* Refer to the matching ORIGINAL_PDFS file for any source lines clipped by PDF text extraction. */
+
