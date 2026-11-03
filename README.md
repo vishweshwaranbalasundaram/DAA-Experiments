@@ -1,19 +1,18 @@
 # 🚀 DESIGN AND ANALYSIS OF ALGORITHMS (DAA)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=DESIGN%20%26%20ANALYSIS%20OF%20ALGORITHMS&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Think%20Smart%20%7C%20Code%20Efficiently%20%7C%20Solve%20Optimally&descAlignY=60&descSize=14" width="100%" alt="DAA Banner"/>
+  <img src="https://img.shields.io/badge/DESIGN%20%26%20ANALYSIS%20OF%20ALGORITHMS-DAA-764ba2?style=for-the-badge&labelColor=161b22" alt="DAA"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COURSE-DAA-764ba2?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOMAIN-COMPUTER%20SCIENCE-0078D4?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COURSE-DAA-764ba2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DOMAIN-COMPUTER%20SCIENCE-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-2ea44f?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ACADEMIC%20YEAR-2026--27-orange?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>Welcome to my DAA repository!</b>
-  <br/>
+  <b>Welcome to my DAA repository!</b><br/>
   A collection of algorithm implementations, problem-solving techniques, practical exercises, and complexity analysis.
 </p>
 
@@ -24,8 +23,6 @@
 This repository documents my learning journey in **Design and Analysis of Algorithms (DAA)**.
 
 It contains practical implementations of algorithms, exploring different approaches to solving computational problems efficiently.
-
-The focus is on understanding algorithm design, analyzing performance, and developing optimized solutions.
 
 ### 🎯 Learning Objectives
 
@@ -44,12 +41,6 @@ The focus is on understanding algorithm design, analyzing performance, and devel
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,vscode,github" alt="Technologies"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Algorithm-Design-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Problem-Solving-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Complexity-Analysis-orange?style=flat-square"/>
-</p>
-
 ---
 
 ## 📚 TOPICS COVERED
@@ -58,41 +49,25 @@ The focus is on understanding algorithm design, analyzing performance, and devel
 |:---:|---|---|
 | 01 | Algorithm Fundamentals | Basic algorithm concepts |
 | 02 | Complexity Analysis | Time and space complexity |
-| 03 | Divide and Conquer | Breaking problems into smaller subproblems |
-| 04 | Greedy Algorithms | Locally optimal decision-making |
+| 03 | Divide and Conquer | Breaking problems into subproblems |
+| 04 | Greedy Algorithms | Locally optimal decisions |
 | 05 | Dynamic Programming | Solving overlapping subproblems |
 | 06 | Backtracking | Exploring possible solutions |
-| 07 | Graph Algorithms | Graph traversal and processing |
+| 07 | Graph Algorithms | Graph traversal |
 | 08 | Sorting and Searching | Efficient data operations |
-
-*The repository will be updated according to the prescribed course syllabus.*
 
 ---
 
 ## 📂 REPOSITORY STRUCTURE
 
 ```text
-DAA/
+DAA-Experiments/
 │
 ├── Unit-01/
-│   ├── Programs/
-│   └── Outputs/
-│
 ├── Unit-02/
-│   ├── Programs/
-│   └── Outputs/
-│
 ├── Unit-03/
-│   ├── Programs/
-│   └── Outputs/
-│
 ├── Unit-04/
-│   ├── Programs/
-│   └── Outputs/
-│
 ├── Unit-05/
-│   ├── Programs/
-│   └── Outputs/
 │
 └── README.md
 ```
@@ -100,8 +75,6 @@ DAA/
 ---
 
 ## ⚡ ALGORITHM COMPLEXITY
-
-Understanding complexity helps evaluate the efficiency of an algorithm.
 
 | Complexity | Notation | Performance |
 |---|---|---|
@@ -116,12 +89,11 @@ Understanding complexity helps evaluate the efficiency of an algorithm.
 
 ## 💻 WHAT YOU WILL FIND HERE
 
-- 🔹 Algorithm source code
-- 🔹 Practical implementations
-- 🔹 Execution outputs
-- 🔹 Complexity analysis
-- 🔹 Problem-solving approaches
-- 🔹 Academic learning materials
+- 💻 Algorithm source codes
+- 📊 Execution outputs
+- 🧮 Complexity analysis
+- 📝 Practical implementations
+- 📚 Academic learning materials
 
 ---
 
@@ -130,7 +102,7 @@ Understanding complexity helps evaluate the efficiency of an algorithm.
 | Category | Details |
 |---|---|
 | Course | Design and Analysis of Algorithms |
-| Course Abbreviation | DAA |
+| Abbreviation | DAA |
 | Department | Computer Science and Engineering |
 | Institution | Rajalakshmi Engineering College |
 | Academic Year | 2026–2027 |
@@ -139,27 +111,16 @@ Understanding complexity helps evaluate the efficiency of an algorithm.
 
 ## 🌟 MY LEARNING PHILOSOPHY
 
-> "First understand the problem. Then design the algorithm. Finally, optimize the solution."
+> First understand the problem. Then design the algorithm. Finally, optimize the solution.
 
 Every algorithm is an opportunity to think smarter, write cleaner code, and solve problems more efficiently.
 
 ---
 
-## 📈 GITHUB PROFILE
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <b>💜 BUILT WITH LOGIC, ALGORITHMS & CURIOSITY</b>
-  <br/>
-  <i>Keep Learning. Keep Building. Keep Optimizing.</i>
+  <img src="https://img.shields.io/badge/BUILT%20WITH-LOGIC%20%26%20CURIOSITY-8A2BE2?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <b>💜 Keep Learning. Keep Building. Keep Optimizing.</b>
 </p>
