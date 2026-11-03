@@ -1,64 +1,75 @@
 # 🚀 DESIGN AND ANALYSIS OF ALGORITHMS (DAA)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=DESIGN%20%26%20ANALYSIS%20OF%20ALGORITHMS&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Think%20 logically%20%7C%20Code%20efficiently%20%7C%20Solve%20smartly&descAlignY=60&descSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=DESIGN%20%26%20ANALYSIS%20OF%20ALGORITHMS&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Think%20Smart%20%7C%20Code%20Efficiently%20%7C%20Solve%20Optimally&descAlignY=60&descSize=14" width="100%" alt="DAA Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COURSE-DAA-764ba2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DOMAIN-Computer%20Science-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/COURSE-DAA-764ba2?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOMAIN-COMPUTER%20SCIENCE-0078D4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACADEMIC%20YEAR-2026--27-orange?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>Welcome to my DAA repository!</b><br/>
-  A collection of algorithm implementations, problem-solving techniques, and complexity analysis.
+  <b>Welcome to my DAA repository!</b>
+  <br/>
+  A collection of algorithm implementations, problem-solving techniques, practical exercises, and complexity analysis.
 </p>
 
 ---
 
-## 🧠 About This Repository
+## 🧠 ABOUT THIS REPOSITORY
 
-This repository contains practical implementations and learning materials for **Design and Analysis of Algorithms (DAA)**.
+This repository documents my learning journey in **Design and Analysis of Algorithms (DAA)**.
 
-The primary objective is to understand how algorithms work, analyze their efficiency, and develop optimized solutions for computational problems.
+It contains practical implementations of algorithms, exploring different approaches to solving computational problems efficiently.
+
+The focus is on understanding algorithm design, analyzing performance, and developing optimized solutions.
 
 ### 🎯 Learning Objectives
 
-- Understand fundamental algorithm design techniques.
-- Analyze time and space complexity.
-- Implement efficient problem-solving approaches.
-- Explore different algorithmic strategies.
-- Improve logical thinking and programming skills.
+- 📌 Understand fundamental algorithm design techniques.
+- ⚡ Analyze time and space complexity.
+- 💻 Implement algorithms through programming.
+- 🧩 Develop efficient problem-solving strategies.
+- 📊 Compare different algorithmic approaches.
+- 🚀 Improve logical thinking and coding skills.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ TECHNOLOGIES & TOOLS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,vscode,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,vscode,github" alt="Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithm-Design-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Problem-Solving-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Complexity-Analysis-orange?style=flat-square"/>
 </p>
 
 ---
 
-## 📚 Topics Covered
+## 📚 TOPICS COVERED
 
-| # | Topic | Focus |
-|---|---|---|
-| 01 | Algorithm Fundamentals | Basic concepts |
-| 02 | Complexity Analysis | Time & Space |
-| 03 | Divide and Conquer | Problem decomposition |
-| 04 | Greedy Algorithms | Optimization |
-| 05 | Dynamic Programming | Optimal substructure |
-| 06 | Backtracking | Search strategies |
-| 07 | Graph Algorithms | Graph traversal |
-| 08 | Sorting & Searching | Efficient data processing |
+| No. | Topic | Description |
+|:---:|---|---|
+| 01 | Algorithm Fundamentals | Basic algorithm concepts |
+| 02 | Complexity Analysis | Time and space complexity |
+| 03 | Divide and Conquer | Breaking problems into smaller subproblems |
+| 04 | Greedy Algorithms | Locally optimal decision-making |
+| 05 | Dynamic Programming | Solving overlapping subproblems |
+| 06 | Backtracking | Exploring possible solutions |
+| 07 | Graph Algorithms | Graph traversal and processing |
+| 08 | Sorting and Searching | Efficient data operations |
 
-*Topics and implementations will be updated according to the course syllabus.*
+*The repository will be updated according to the prescribed course syllabus.*
 
 ---
 
-## 📂 Repository Structure
+## 📂 REPOSITORY STRUCTURE
 
 ```text
 DAA/
@@ -88,56 +99,67 @@ DAA/
 
 ---
 
-## ⚡ Algorithm Complexity
+## ⚡ ALGORITHM COMPLEXITY
 
-Understanding algorithm efficiency is an important part of DAA.
+Understanding complexity helps evaluate the efficiency of an algorithm.
 
 | Complexity | Notation | Performance |
 |---|---|---|
-| Constant | O(1) | 🟢 Excellent |
-| Logarithmic | O(log n) | 🟢 Very Good |
-| Linear | O(n) | 🟡 Good |
-| Linearithmic | O(n log n) | 🟡 Moderate |
-| Quadratic | O(n²) | 🟠 Slower |
-| Exponential | O(2ⁿ) | 🔴 Expensive |
+| Constant | `O(1)` | 🟢 Excellent |
+| Logarithmic | `O(log n)` | 🟢 Very Good |
+| Linear | `O(n)` | 🟡 Good |
+| Linearithmic | `O(n log n)` | 🟡 Efficient |
+| Quadratic | `O(n²)` | 🟠 Slower |
+| Exponential | `O(2ⁿ)` | 🔴 Expensive |
 
 ---
 
-## 💡 What You'll Find Here
+## 💻 WHAT YOU WILL FIND HERE
 
-- 💻 Algorithm source codes
-- 📊 Execution outputs
-- 🧮 Complexity analysis
-- 📝 Practical problem solutions
-- 📚 Course-related implementations
+- 🔹 Algorithm source code
+- 🔹 Practical implementations
+- 🔹 Execution outputs
+- 🔹 Complexity analysis
+- 🔹 Problem-solving approaches
+- 🔹 Academic learning materials
 
 ---
 
-## 🎓 Academic Information
+## 🎓 ACADEMIC INFORMATION
 
-| Detail | Information |
+| Category | Details |
 |---|---|
 | Course | Design and Analysis of Algorithms |
+| Course Abbreviation | DAA |
 | Department | Computer Science and Engineering |
 | Institution | Rajalakshmi Engineering College |
 | Academic Year | 2026–2027 |
 
 ---
 
-## 🌟 Learning Philosophy
+## 🌟 MY LEARNING PHILOSOPHY
 
-> "First, understand the problem. Then design the algorithm. Finally, optimize the solution."
+> "First understand the problem. Then design the algorithm. Finally, optimize the solution."
 
-Every algorithm is an opportunity to think smarter, write cleaner code, and solve problems efficiently.
+Every algorithm is an opportunity to think smarter, write cleaner code, and solve problems more efficiently.
+
+---
+
+## 📈 GITHUB PROFILE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
 
 ---
 
 <p align="center">
-  <b>💜 Built with logic, algorithms, and curiosity.</b>
+  <b>💜 BUILT WITH LOGIC, ALGORITHMS & CURIOSITY</b>
   <br/>
   <i>Keep Learning. Keep Building. Keep Optimizing.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </p>
